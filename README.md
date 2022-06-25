@@ -1,6 +1,5 @@
 ![](https://img.shields.io/badge/Hello-App-blueviolet)
 
-
 # hello-rails-backend
 > This is a hello rails backend connected with [Hello-react-front-end rep](https://github.com/butlermuwo/hello-react-front-end-.git) 
 
